@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Camp&&Trip",
+    "description": "React Native - Material Kit Free",
+    "slug": "rn-material-kit-free",
+    "privacy": "unlisted",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.8.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/appLogo.png",
+    "splash": {
+      "image": "./assets/images/load.jpg",
+      "resizeMode":"cover",
+      "backgroundColor": "#0049bf"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
